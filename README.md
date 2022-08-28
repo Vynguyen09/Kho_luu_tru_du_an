@@ -3,11 +3,11 @@
 
 ## Yêu cầu dự án
 
-- Công ty X đặt hàng bạn làm một hệ thống Web quản lý của các dự án trong công ty. 
+- Công ty X đặt hàng bạn làm một hệ thống lưu trữ các dự án trong công ty. 
 
 - Theo cấu trúc hiện tại, nhân sự của công ty thuộc các phòng ban khác nhau. Các phòng ban này có thể thuộc các trung tâm hoặc có cấp ngang hàng với các trung tâm.  
 
-- Việc triển khai các dự án được thực hiện ở mức phòng ban hoặc trung tâm. Các thành viên của phòng ban hoặc trung tâm quản lý dự án đều có quyền truy cập đến thông tin issues của bộ phận mình. Ngoài ra, dự án có thể phân quyền truy cập xem/quản lý thông tin issue cho các nhân sự không thuộc bộ phận mình.
+- Cấp quản lý có thể tạo và quản lý dự án, nhân sự chỉ có thể xem và thực hiện các dự án được ủy quyền.
 
 ## Mô tả:
 - Tittle: Hệ thống trang web quản lý công ty X
@@ -17,4 +17,4 @@
 ## Deliveriables:
 - SRS
 - Mockup( mô phỏng)
-- Cơ sở dữ liệu
+
