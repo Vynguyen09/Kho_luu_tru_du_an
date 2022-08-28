@@ -9,6 +9,12 @@
 
 - Việc triển khai các dự án được thực hiện ở mức phòng ban hoặc trung tâm. Các thành viên của phòng ban hoặc trung tâm quản lý dự án đều có quyền truy cập đến thông tin issues của bộ phận mình. Ngoài ra, dự án có thể phân quyền truy cập xem/quản lý thông tin issue cho các nhân sự không thuộc bộ phận mình.
 
+## Mô tả:
+- Tittle: Hệ thống trang web quản lý công ty X
+- Ngôn ngữ: SQL
+- Công cụ sử dụng: SSMS, MS Office, Draw.io
+
 ## Deliveriables:
 - SRS
-- Database
+- Mockup( mô phỏng)
+- Cơ sở dữ liệu
