@@ -1,8 +1,9 @@
 # management_system_X
+Đây là dự án thuộc môn Nhập môn kĩ thuật Phần mềm thuộc Funix. Dự án được thực hiện và báo cáo vào tháng 3/2022 và tiếp tục hoàn thiện vào tháng 8/2022.
 
 ## Yêu cầu dự án
 
-- Công ty X đặt hàng bạn làm một hệ thống Web quản lý các kế hoạch thực hiện (milestones), các bản chuyển giao (releases) và các vấn đề (issues) của các dự án trong công ty. 
+- Công ty X đặt hàng bạn làm một hệ thống Web quản lý của các dự án trong công ty. 
 
 - Theo cấu trúc hiện tại, nhân sự của công ty thuộc các phòng ban khác nhau. Các phòng ban này có thể thuộc các trung tâm hoặc có cấp ngang hàng với các trung tâm.  
 
