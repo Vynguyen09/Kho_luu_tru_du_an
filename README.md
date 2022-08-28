@@ -10,7 +10,6 @@
 - Cấp quản lý có thể tạo và quản lý dự án, nhân sự chỉ có thể xem và thực hiện các dự án được ủy quyền.
 
 ## Mô tả:
-- Tittle: Hệ thống trang web quản lý công ty X
 - Ngôn ngữ: SQL
 - Công cụ sử dụng: SSMS, MS Office, Draw.io
 
