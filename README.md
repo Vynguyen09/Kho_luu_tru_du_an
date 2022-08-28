@@ -1,4 +1,4 @@
-# management_system_X
+# Kho lưu trữ dự án công ty X
 Đây là dự án thuộc môn Nhập môn kĩ thuật Phần mềm thuộc Funix. Dự án được thực hiện và báo cáo vào tháng 3/2022 và tiếp tục hoàn thiện vào tháng 8/2022.
 
 ## Yêu cầu dự án
