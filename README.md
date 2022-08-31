@@ -16,4 +16,4 @@
 ## Deliveriables:
 - SRS
 - Mockup( mô phỏng)
-
+- Cơ sở dữ liệu
